@@ -1,3 +1,7 @@
+//mobile programming group A 
+//assignment 1
+//NG PEI NYUK 277209
+
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
